@@ -60,16 +60,16 @@ export default function App() {
           <h2 className="text-2xl font-bold mb-4">Servicios</h2>
           <div className="grid gap-4 md:grid-cols-3">
             <div className="p-4 bg-white rounded-lg shadow">
-              <h3 className="font-semibold">Asesoría personalizada</h3>
-              <p className="text-sm text-gray-600">Te ayudamos a elegir lo mejor según tu necesidad.</p>
+              <h3 className="font-semibold">Tenemos Los Mejores productos</h3>
+              <p className="text-sm text-gray-600">venta de alimento y mucho mas.</p>
             </div>
             <div className="p-4 bg-white rounded-lg shadow">
-              <h3 className="font-semibold">Envíos seguros</h3>
-              <p className="text-sm text-gray-600">Empaque y envío con seguimiento.</p>
+              <h3 className="font-semibold">haceptamos Traferencia</h3>
+              <p className="text-sm text-gray-600">y te damos el mejor trato.</p>
             </div>
             <div className="p-4 bg-white rounded-lg shadow">
-              <h3 className="font-semibold">Pedidos por encargo</h3>
-              <p className="text-sm text-gray-600">Realizamos pedidos personalizados bajo demanda.</p>
+              <h3 className="font-semibold">te esperamos </h3>
+              <p className="text-sm text-gray-600">Trabajamos de 8 am a 6PM .</p>
             </div>
           </div>
         </section>
